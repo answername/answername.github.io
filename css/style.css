@@ -569,13 +569,13 @@ h2.roboto {
 
 #etc_box {
     position: absolute;
-    width: 300%;
+    width: 400%;
     height: 500px;
     left: 0;
 }
 #etc_box > div {
     float: left;
-    width: 33.3333%;
+    width: 25%;
     height: 500px;
 }
 #etc_box > div > div {
@@ -606,13 +606,19 @@ h2.roboto {
     width: 800px;
     margin-bottom: 30px;
 }
+.etc-fourth img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+
 
 
 #etc_button {
     position: relative;
     width: 140px;
     height: 60px;
-    top: 400px;
+    top: 450px;
     right: -250px;
 }
 #prev2, #next2 {
